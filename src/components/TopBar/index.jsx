@@ -30,7 +30,7 @@ function TopBar() {
       <Toolbar>
         {/* Left side: Developer's name */}
         <Typography variant="h6" color="inherit" style={{ flexGrow: 1 }}>
-          Habibi
+          Nguyen Minh Quan
         </Typography>
 
         {/* Right side: Dynamic content */}
